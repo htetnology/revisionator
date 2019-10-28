@@ -1,5 +1,3 @@
-//Thinzar Htet 180295461
-
 public class Question {
 
 	private String question;
