@@ -1,5 +1,3 @@
-//Thinzar Htet 180295461 
-
 import java.io.PrintStream;
 import java.math.RoundingMode;
 import java.text.DecimalFormat;
