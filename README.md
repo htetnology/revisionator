@@ -1,5 +1,7 @@
 # revisionator
-A simple quiz program that enables students to do their own revision of programming basics. As per coursework requirements, only the Question class was to be developed from scratch. Additionally, code improvements and error handling were expected for the remaining classes. RevisionatorUserInterface is the main class used to run the program. Developed using Java and Eclipse IDE.
+A simple, customizable revision quiz program about programming basics, complete with a timer and scoreboard. Users can choose their desired topics to be tested on from a list, followed by the number of questions. A timer starts in the background at the same time the quiz begins. At the end of the quiz, time taken and score are shown to the user.  
+
+As per coursework requirements, only the Question class was to be developed from scratch. Additionally, code improvements and error handling were expected for the remaining classes. RevisionatorUserInterface is the main class used to run the program. Developed using Java and Eclipse IDE.
 
 ## Screenshots of program
 1. Quiz menu
