@@ -1,0 +1,35 @@
+TRUE or FALSE: Constructors are called by their containing class name by convention  
+Answer FALSE
+
+TRUE or FALSE: Constructors have return types  
+Answer FALSE
+
+TRUE or FALSE: A constructor is normally used to give values to the object's instance variables  
+Answer TRUE
+
+TRUE or FALSE: A class can have arbitrarily many constructors  
+Answer TRUE
+
+TRUE or FALSE: The keyword this can be used in a constructor to distinguish the formal parameter from the field name  
+Answer TRUE
+
+TRUE or FALSE: An instance method does not have the keyword static in its heading  
+Answer TRUE
+
+TRUE or FALSE: Person extends SentientBeing means that the Person class inherits the fields and instance methods of the SentientBeing class  
+Answer TRUE
+
+TRUE or FALSE: An inheriting class can redefine instance methods from its parent class by overriding them 
+Answer TRUE
+
+TRUE or FALSE: Every constructor must have the same name as the name of the class  
+Answer TRUE
+
+TRUE or FALSE: A class can have up to three constructors
+Answer FALSE
+
+TRUE or FALSE: When one class extends another, the keyword super can be used in a constructor of the child class to access a constructor in the parent class 
+Answer TRUE
+
+TRUE or FALSE: An instance method has the keyword static in its heading  
+Answer FALSE

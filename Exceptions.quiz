@@ -1,0 +1,34 @@
+Which of the following are valid exceptions
+A IOException
+B FileNotFoundException
+C EOFException
+D All of the above
+Answer D
+
+What exception will be thrown by this statement: int x=Integer.parseInt("dl;fkas;lkf");
+A NumberFormatException
+B NotANumberException
+C NaNException
+D NumberParseException
+Answer A
+ 
+Why will this main method cause a compilation error: public static void main(String[] args){int s = System.in.read();}
+A Because the int s = System.in.read(); statement can throw an exception
+B Because the int s = System.in.read(); statement can throw an exception, and this must be thrown or caught
+C because the words 'throws Exception' must always be included in the main declaration (ie public static void main(String[] args) throws Exception)
+D None of the above
+Answer B
+
+What is the purpose of a try block?
+A To carry out some risky code that might throw an exception
+B To catch exceptions and pass them on to a catch block to handle
+C To allow programs to recover from errors by helping to handle exceptions
+D All of the above
+Answer D
+
+What is the purpose of a catch block?
+A To contain statements to allow the program to recover from an error
+B To give information about the error to the user 
+C To partner with a try block in order to handle errors
+D All of the above
+Answer D

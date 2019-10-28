@@ -1,0 +1,52 @@
+Which of the following are primitive variables:
+A float
+B char
+C int
+D All of the above
+Answer D
+
+Which of the following are primitive variables
+A Boolean
+B String
+C Integer
+D None of the above
+Answer D
+
+TRUE or FALSE: When you make an assignment to a reference variable, the variable does not hold the value assigned, but instead points to it in memory
+Answer TRUE
+
+TRUE or FALSE: Java allows one byte (=8 bits) to store characters. This means that in Java we can represent 28 different characters.
+Answer FALSE
+
+TRUE or FALSE: Java allows two bytes (=16 bits) to store characters. This means that in Java we can represent 216 different characters.
+Answer TRUE
+
+Why is the output of the following statement 'a': System.out.println((char)97);
+A Because a char is both an int and a character
+B Because casting has changed 97 from an int to a char
+C Because the ASCII value of 'a' is 97
+D All of the above
+Answer D
+
+Why is the output of the following statements 'You typed in 107': int c=System.in.read(); System.out.println("You typed in " + c); 
+A Because the user entered 107
+B Because 107 is the ASCII value of the first char the user entered
+C Because 107 is the ASCII value of the last char the user entered
+D None of the above
+Answer B
+
+Which one of the following is a possible output of the following statements: int c=System.in.read(); System.out.println("You typed in " + c);
+A If the user enters 'k' the output will be 'You typed in 107'
+B If the user enters '107' the output will be 'You typed in k'
+C If the user enters 'k' the output will be 'You typed in k'
+D If the user enters '107' the output will be 'You typed in 107'
+Answer A
+
+Which one of the following is a possible output of the following statement: System.out.println('8'+'A');
+A 8A
+B 121
+C No output - compilation error
+D No output - runtime error
+Answer B
+
+	

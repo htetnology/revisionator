@@ -1,0 +1,62 @@
+Why will the following class give a compilation error? public class Boolex{static int x; static int y;	public static void main(String[] args){if x > y System.out.print("error");}}
+A Because the boolean conditional cannot be evaluated as x and y have not been initialised
+B Because the boolean conditional cannot be evaluated as x > y should be enclosed in round brackets
+C Because the boolean conditional cannot be evaluated as x and y should not be static
+D All of the above
+Answer B
+
+The following statement will not compile: if 3/1.2 < 0 System.out.print("error");
+A Because the boolean conditional is invalid as an int is being divided by a double
+B Because the boolean conditional is invalid as an int is being divided by a float
+C Because the boolean conditional should be in round brackets
+D All of the above
+Answer C
+
+What will be the output of the following if/else statement: if (true) System.out.print("hello"); else System.out.print("goodbye");
+A hello
+B goodbye
+C No output - the program will not compile
+D None of the above
+Answer A
+
+What will be the output of the following if/else statement: if (false) System.out.print("hello"); else System.out.print("goodbye");
+A hello
+B goodbye
+C No output - the statement will cause a compilation error
+D None of the above
+Answer B
+
+What is the output of the following statement: System.out.println(!(!(false)));
+A true
+B false
+C No output - the statement will cause a compilation error
+D No output - the statement will cause a run time error
+E None of the above
+Answer B
+
+What is the output of the following statement: System.out.println(!(true));
+A true
+B false
+C No output - the statement will cause a compilation error
+D No output - the statement will cause a run time error
+E None of the above
+Answer B
+
+What will be the output of the following statement if t is a valid int variable with the value 3: if (t==0 || t==3)  System.out.println("hello");
+A The statement will output hello
+B No output - the statement will cause a run time error
+C No output - the statement will cause a compilation error
+D No output but no errors
+E None of the above.
+Answer A
+
+What will be the output of the following statement if t is a valid int variable with the value 3: if (t==0 && t==3) System.out.println("hello");
+A The statement will output hello
+B No output - the statement will cause a run time error
+C No output - the statement will cause a compilation error
+D No output but no errors
+E None of the above.
+Answer D
+
+
+

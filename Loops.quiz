@@ -1,0 +1,110 @@
+Why would you use a while loop to ask the user to enter a number between 0 and 9? 
+A Because the user might enter something that will make the program crash
+B Because the user might enter a negative number
+C Because the user might enter a number greater than 9
+D All of the above
+Answer D
+
+Why would you use a while loop to ask the user to enter a valid file name? 
+A Because the user might not enter a valid file name
+B The user might enter something that could make the program crash
+C In order to reject invalid entry and ask again for a valid file name
+D All of the above
+Answer D
+
+In this loop: for(int i=0;i < 3;i=i+1) System.out.println("*"); What is the second part of the for loop, i < 3;, called? 
+A The initialisation expression
+B The final expression 
+C The guard
+D None of the above
+Answer C
+
+In this loop: for(int i=0;i < 3;i=i+1) System.out.println("*"); What is the first part of the for loop, int i=0;, called? 
+A The initialisation expression
+B The final expression 
+C The guard
+D None of the above
+Answer A
+
+Consider the following statement: for(;;) System.out.println("Hello world"); If this statement was included in the main method of a valid program, what would its output be? 
+A No output because the statement will cause a compilation error
+B Infinite loop - the standard output will fill up with “Hello world”, one to a line, and this will continue indefinitely
+C Run time error
+D None of the above
+Answer B
+
+Consider the following statement: for(;;) x==1; If this statement was included in the main method of a valid program, and assuming that variable x has been declared, what would its output be? 
+A No output because the statement will cause a compilation error
+B Infinite loop - the program will hang with no output
+C Run time error
+D None of the above
+Answer A
+
+What is the output of this loop: for(int i=0;i<9;i++) System.out.print("*"); 
+A It will print 8 asterisks ('*')
+B It will print 9 asterisks ('*')
+C Infinite loop
+D No output
+Answer B
+
+What is the output of this loop: int j=18; while (j>6){System.out.print("*");j=j-2;} 
+A It will print 6 asterisks ('*')
+B It will print 7 asterisks ('*')
+C Infinite loop
+D No output
+Answer A
+
+What is the output of this loop: for(int i=-2;i<4;i++) System.out.print("*"); 
+A It will print 5 asterisks ('*')
+B It will print 6 asterisks ('*')
+C Infinite loop
+D No output
+Answer B
+
+What is the output of this loop: int k=3; while (k>3){System.out.print("*");k=k+3;} 
+A It will print 3 asterisks ('*')
+B It will print 6 asterisks ('*')
+C Infinite loop
+D No output
+Answer D
+
+What is the output of this loop: for(int i=0;i>=0;i++) System.out.print("*"); 
+A It will print 1 asterisk ('*')
+B It will print 10 asterisks ('*')
+C Infinite loop
+D No output
+Answer C
+
+What is the output of this loop: for(int i=0;i<9;i=i+2) System.out.print("*"); 
+A It will print 5 asterisk ('*')
+B It will print 6 asterisks ('*')
+C Infinite loop
+D No output
+Answer A
+
+What is the output of this loop: int p=0; while(p<=8){System.out.print("*");p+=2;} 
+A It will print 4 asterisk ('*')
+B It will print 5 asterisks ('*')
+C Infinite loop
+D No output
+Answer B
+
+What is the output of this loop: for(int i=5; i>=5; i++) System.out.print("*"); 
+A It will print 4 asterisk ('*')
+B It will print 5 asterisks ('*')
+C Infinite loop
+D No output
+Answer C
+
+What is the output of this loop: int m=0; while (true){System.out.print("*");} 
+A No output - compilation error
+B No output - run time error
+C No output but no errors
+D Infinite loop
+Answer D
+
+
+
+
+
+
